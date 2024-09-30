@@ -27,7 +27,7 @@
 #### Сервис
 ![Сервис](https://github.com/Konstagit/AtomicHack2/blob/master/images/appStreamlit-GoogleChrome2024-06-1603-15-14-ezgif.com-video-to-gif-converter.gif)
 ## Содержимое
-- `train_model`: Код по модели,эксперминеты с данными,разделение на train,test,val
+- `train_model`: Код по модели,эксперименты с данными,разделение на train,test,val
 - `service`: Каталог, содержащий все необходимое для запуска веб приложения на Streamlit.Здесь же лучшие веса модели.
 - `images`: Изображенния для README
 
